@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ServiceProviders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <providerList>
+    <ServiceProvider>
+      <id>0</id>
+      <Name>Водоканал</Name>
+      <tariffs>
+        <name>123</name>
+        <tariffsList>
+          <Tariff>
+            <cost>1</cost>
+            <service>
+              <name>Водоотведение</name>
+            </service>
+          </Tariff>
+          <Tariff>
+            <cost>2</cost>
+            <service>
+              <name>Холодная вода</name>
+            </service>
+          </Tariff>
+          <Tariff>
+            <cost>2</cost>
+            <service>
+              <name>Горячая вода</name>
+            </service>
+          </Tariff>
+        </tariffsList>
+      </tariffs>
+    </ServiceProvider>
+  </providerList>
+</ServiceProviders>

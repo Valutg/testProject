@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <personList>
+    <Person>
+      <id>2</id>
+      <lastName>Черепанова</lastName>
+      <firstName>Валерия</firstName>
+      <patronym>Сергеевна</patronym>
+      <startReside>2021-08-03T13:14:40</startReside>
+      <endReside>2021-09-30T13:14:40</endReside>
+      <livingSpace>
+        <Id>1</Id>
+        <Address>Современная 7, 82</Address>
+        <Square>45</Square>
+      </livingSpace>
+    </Person>
+    <Person>
+      <id>3</id>
+      <lastName>Якушенко</lastName>
+      <firstName>Виктор</firstName>
+      <patronym>Сергеевич</patronym>
+      <startReside>2020-11-04T18:18:23</startReside>
+      <endReside>2021-09-23T18:18:23.9950691</endReside>
+      <livingSpace>
+        <Id>1</Id>
+        <Address>Современная 7, 82</Address>
+        <Square>45</Square>
+      </livingSpace>
+    </Person>
+  </personList>
+</Persons>

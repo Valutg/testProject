@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<LivingSpaces xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <livingSpaces>
+    <LivingSpace>
+      <Id>0</Id>
+      <Address>Чкалова 6, 81</Address>
+      <Square>32</Square>
+    </LivingSpace>
+    <LivingSpace>
+      <Id>1</Id>
+      <Address>Современная 7, 82</Address>
+      <Square>45</Square>
+    </LivingSpace>
+  </livingSpaces>
+</LivingSpaces>
